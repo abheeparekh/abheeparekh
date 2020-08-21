@@ -2,7 +2,6 @@
 
 Hello, I am a Computer Science Graduate Student at Arizona State University. I am passionate about innovative technologies that improve everyday lives. I want to work with technologies that serve millions of users across the globe. I am skilled in algorithm design, data structures, object-oriented design and database design.
 
-🔭 I’m currently working on Probabilistic Reasoning.
 
 
 
@@ -11,6 +10,7 @@ Hello, I am a Computer Science Graduate Student at Arizona State University. I a
 
 Here are some ideas to get you started:
 
+🔭 I’m currently working on Probabilistic Reasoning.
 - 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
